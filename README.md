@@ -1,7 +1,7 @@
 # analysis-pharma-sales 
 # Analysing Pharmaceutical Sales Data
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes pharmaceutical sales data using **Python, Pandas, and Matplotlib**.
 
@@ -11,7 +11,7 @@ The analysis is performed using the `salesdaily.csv` dataset.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The project answers the following questions:
 
@@ -28,7 +28,7 @@ The project answers the following questions:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python**
 * **Pandas** – Data loading, cleaning, grouping, and analysis
@@ -38,7 +38,7 @@ The project answers the following questions:
 ---
 
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains daily pharmaceutical sales information organized by **ATC (Anatomical Therapeutic Chemical) codes**.
 
@@ -58,7 +58,7 @@ The dataset also contains the date and total sales information.
 
 ---
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 
 ### 1. Total Sales by Drug Category
 
@@ -102,7 +102,7 @@ A line chart is used to visualize the monthly trend.
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 
 The analysis produced the following major findings:
 
